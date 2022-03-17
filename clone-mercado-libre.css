@@ -1,0 +1,10 @@
+header{
+    background: #fff159;
+    width: 100vw;
+    height: 87px;
+}
+#input-header{
+    width: 775px;
+    height: 20px;
+    border: none;
+}
